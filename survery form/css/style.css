@@ -1,0 +1,28 @@
+
+body{
+ background-color: #8FE3CF;
+ margin: 80px;
+ font-size: 1.2rem;
+}
+
+h1{
+  margin-left: 40%;
+}
+.surbery{
+  padding: 3%;
+  text-align: center;
+  font-size: 1.2rem;
+  background-color: #ffff;
+}
+
+.most1{
+  padding: 3%;
+}
+
+.current{
+  padding: 2%;
+}
+
+.form-group{
+padding: 0;
+}
